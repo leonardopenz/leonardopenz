@@ -43,7 +43,7 @@ Sou apaixonado por **desenvolvimento web** e estou sempre em busca de novos desa
 ## 📫 Contato
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-penz/)
-- ✉️ **leonardo.penz@hotmail.com**
+- ✉️ **leonardopenz.ti@gmail.com**
 
 ---
 
